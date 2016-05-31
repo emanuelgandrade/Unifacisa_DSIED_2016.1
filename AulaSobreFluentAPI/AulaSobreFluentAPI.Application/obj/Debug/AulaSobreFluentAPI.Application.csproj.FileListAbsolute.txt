@@ -1,0 +1,4 @@
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Application\bin\Debug\AulaSobreFluentAPI.Application.dll
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Application\bin\Debug\AulaSobreFluentAPI.Application.pdb
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Application\obj\Debug\AulaSobreFluentAPI.Application.dll
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Application\obj\Debug\AulaSobreFluentAPI.Application.pdb

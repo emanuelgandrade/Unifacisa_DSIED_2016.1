@@ -1,0 +1,5 @@
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Domain\bin\Debug\AulaSobreFluentAPI.Domain.dll
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Domain\bin\Debug\AulaSobreFluentAPI.Domain.pdb
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Domain\obj\Debug\AulaSobreFluentAPI.Domain.csprojResolveAssemblyReference.cache
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Domain\obj\Debug\AulaSobreFluentAPI.Domain.dll
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Domain\obj\Debug\AulaSobreFluentAPI.Domain.pdb

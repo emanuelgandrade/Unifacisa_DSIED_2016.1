@@ -1,0 +1,12 @@
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\bin\Debug\AulaSobreFluentAPI.Infra.Data.dll.config
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\bin\Debug\AulaSobreFluentAPI.Infra.Data.dll
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\bin\Debug\AulaSobreFluentAPI.Infra.Data.pdb
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\obj\Debug\AulaSobreFluentAPI.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\obj\Debug\AulaSobreFluentAPI.Infra.Data.dll
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\obj\Debug\AulaSobreFluentAPI.Infra.Data.pdb
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\bin\Debug\AulaSobreFluentAPI.Domain.dll
+C:\Users\adriano\Dropbox\FACISA\dotNet\Projetos\AulaSobreFluentAPI\AulaSobreFluentAPI.Infra.Data\bin\Debug\AulaSobreFluentAPI.Domain.pdb
